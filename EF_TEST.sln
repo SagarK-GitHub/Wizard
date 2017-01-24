@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_TEST", "EF_TEST\EF_TEST.csproj", "{620B9DDE-9A0C-4C0C-9633-E651318E1CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_DataAccess", "EF_DataAccess\EF_DataAccess.csproj", "{10720A3A-C0B3-4A85-98CD-008C5C5F13DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Models", "EF_Models\EF_Models.csproj", "{60C548ED-7AB7-4259-82DE-CA36C3C9B122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620B9DDE-9A0C-4C0C-9633-E651318E1CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620B9DDE-9A0C-4C0C-9633-E651318E1CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620B9DDE-9A0C-4C0C-9633-E651318E1CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620B9DDE-9A0C-4C0C-9633-E651318E1CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10720A3A-C0B3-4A85-98CD-008C5C5F13DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10720A3A-C0B3-4A85-98CD-008C5C5F13DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10720A3A-C0B3-4A85-98CD-008C5C5F13DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10720A3A-C0B3-4A85-98CD-008C5C5F13DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C548ED-7AB7-4259-82DE-CA36C3C9B122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C548ED-7AB7-4259-82DE-CA36C3C9B122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C548ED-7AB7-4259-82DE-CA36C3C9B122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C548ED-7AB7-4259-82DE-CA36C3C9B122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
